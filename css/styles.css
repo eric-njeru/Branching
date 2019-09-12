@@ -1,16 +1,16 @@
 h1 {
-  color: Yellow;
+  color: Green;
   text-align: center;
 }
 h2 {
   color: brown;
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 p {
-  font-family: fantasy;
+  font-family: cursive;
 }
 ul {
   line-height: 40px;
 }
-body {background-color: green;}
+body {background-color: violet;}
